@@ -1,0 +1,26 @@
+{
+  "name": "comp2068-lesson8",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Alex Andriishyn <alex.andriishyn@icloud.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/comp2086/COMP2068-Lesson8",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-resource": "~1.4.8",
+    "jquery": "~2.1.4",
+    "font-awesome": "~4.5.0",
+    "angular-route": "~1.4.8",
+    "bootstrap": "~3.3.6"
+  }
+}
